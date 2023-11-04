@@ -54,16 +54,6 @@ everything around him starts ageing
 
 (*player gets control of the character*)
 
-(*gets near a mirror, looks at himself as he has aged too*)
-
-(*the camera zooms towards the image in the mirror*)
-
-(*takes a smooth turn*)
-
-(***takes control of the image in the mirror***)
-
-(*camera transits into 3rd person view*)
-
 the building starts shaking
 
 (*player gets instruction while exiting the school building*)
@@ -77,14 +67,6 @@ feels some earthquakes while searching for his house...
 as he starts moving towards his house, the tremors get stronger and stronger...
 
 he gets a sight of his house...
-
-finds a mirror lying mysteriously on a wall...
-
-looks at his image
-
-(*camera zooms towards the image*)
-
-(*transits into first person view*)
 
 (*a strong earthquake hits*)
 
@@ -121,10 +103,6 @@ player:"but why can't i remember anything..."
 "i should checkout that forest... maybe it's dream"
 
 "yeah this can't be real..."
-
-(*near the exit he looks towards a mirror*)
-
-(*camera changes into 3rd person)
 
 he gets out of his house, thinking for a way to go to that forest
 
@@ -164,11 +142,38 @@ finds a creater, there was something moving there but he couldn't figure out wha
 
 he gets creepy vibe from the place, starts walking out of the forest
 
+feels a touch on his leg from behind
+
+turns around, finds a mirror
+
 ~ Dhruv will contiue
 
-suggestions:-()
-
 ----
+
+Game mechanics:
+-
+
+Time travel function:
+
+Player would need to kill Alien bosses to fill a gauge (which would not be so easy)
+
+by using the gauge player can travel trough time 
+
+Past,Present or Future
+
+by using one full gauge player can travel
+
+-if in present: to both future or past
+
+-if in past: only to present
+
+-if in future: only to present
+
+the gauge will also be used to power up weapons with some temporary buffs
+(which definitely wouldn't require a full gauge)
+
+**PLAYER CAN ONLY TRAVEL THROUGH TIME THROUGH MIRRIORS**
+
 
 
 
